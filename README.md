@@ -4,7 +4,18 @@ My personal website.
 
 ## Development
 
-### Install Jekyll
+### NixOS
+
+```bash
+nix-shell -p ruby_3_4
+gem install jekyll bundler
+bundle install
+bundle exec jekyll serve
+```
+
+### Windows
+
+#### Install Jekyll
 
 https://jekyllrb.com/docs/installation/windows/
 
@@ -12,7 +23,7 @@ https://jekyllrb.com/docs/installation/windows/
 1. Run `ridk install` on last step of installation and select `MSYS2 and MINGW development toolchain`.
 1. Run `gem install jekyll bundler`.
 
-### Build Site Locally
+#### Build Site Locally
 
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
 
