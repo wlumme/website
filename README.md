@@ -1,6 +1,6 @@
 # Personal Website
 
-My personal website.
+My personal website
 
 ## Development
 
@@ -32,11 +32,3 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/test
 
 When your theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
 
-## Acknowledgements
-
-This website was inspired by a few other websites. Thank you for your inspiration!
-
-- https://broccolini.net/swiss/
-- https://mhouge.dk/
-- https://www.haakon.dev/
-- https://www.robbie.dev/
