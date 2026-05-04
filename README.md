@@ -7,7 +7,7 @@ My personal website
 ### NixOS
 
 ```bash
-nix-shell -p ruby_3_4
+nix-shell -p ruby_3_4 yamlfmt
 gem install jekyll bundler
 bundle install
 bundle exec jekyll serve
